@@ -1,0 +1,23 @@
+{
+  "name": "js-tg-bot-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node bot.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "jest": "^29.7.0",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "babel-jest": "^29.7.0"
+  }
+}
