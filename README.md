@@ -1,1 +1,7 @@
-# js-tg-bot-jest
+```bash
+npm start
+```
+
+```bash
+npm test
+```
